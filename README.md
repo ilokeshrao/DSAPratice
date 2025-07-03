@@ -5,3 +5,9 @@
 //bijli bill
 //shop discount bill 
 //INR Donation
+
+// Loop complete kiye 
+
+ for loop 
+ whileloop 
+dowhile loop
