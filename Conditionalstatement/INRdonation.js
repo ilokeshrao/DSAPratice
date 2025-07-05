@@ -38,3 +38,8 @@ if (amount >= 1) {
 }
 
 console.log("Bacha hua paisa: ₹" + amount);
+
+ 
+
+   
+
