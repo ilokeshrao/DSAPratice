@@ -9,5 +9,5 @@
 // Loop complete kiye 
 
  for loop 
- whileloop 
+ whileloop
 dowhile loop
